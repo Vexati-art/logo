@@ -1,5 +1,5 @@
 
-<html>
+<?php
 	<title> Logo </title>
 <head>
 <link rel="stylesheet" href="Css/style.css"/>
@@ -60,4 +60,4 @@ jeiwieiwodjwkroekdhwkwirjww</p>
 </div>           
 
 </body>
-</html>
+?>
