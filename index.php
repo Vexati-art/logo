@@ -10,7 +10,7 @@
 <body>
 	
 <div class="navbar">
-	<img src="images/logo.jpeg" alt="Paris" width:"65px"/>
+	<img src="logo.jpeg" alt="Paris" width:"65px"/>
   <a href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
