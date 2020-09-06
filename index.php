@@ -2,15 +2,15 @@
 <html>
 	<title> Logo </title>
 <head>
-<link rel="stylesheet" href="Css/style.css">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="Css/style.css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 </head>
 
 <body>
 	
 <div class="navbar">
-	<img src="images/logo.jpeg" alt="Paris" width:"65px">
+	<img src="images/logo.jpeg" alt="Paris" width:"65px"/>
   <a href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
