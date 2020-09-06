@@ -1,5 +1,6 @@
 
 <html>
+	<title> Logo </title>
 <head>
 <link rel="stylesheet" href="Css/style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,7 +17,7 @@
 </div>
 <div id="tfheader">
 		<form id="tfnewsearch" method="get" action="http://www.google.com">
-		        <input type="text" class="tftextinput" name="q" size="15" maxlength="90"><input type="submit" value="Search" class="tfbutton">
+		        <input type="text" class="tftextinput" name="q" size="15" maxlength="90"><input type="submit" value="Search" class="tfbutton"/>
 		</form>
 	<div class="tfclear"></div>
 	</div>
